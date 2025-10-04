@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "搭內期末報告", "搭內期末報告\搭內期末報告.csproj", "{065B8CB7-FF70-4BE2-BD59-A9F82CE425AB}"
+EndProject
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "讀卡機", "..\讀卡機\讀卡機\bin\Debug\讀卡機.exe", "{AC1F178E-9570-4A10-AEB4-56AD2200615B}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = D:\大一下 電腦資料\Homework\Homework\搭內期末報告\讀卡機\讀卡機\bin\Debug\讀卡機.exe
+		RemoteMachine = ALEX_NB
+		StartingDirectory = D:\大一下 電腦資料\Homework\Homework\搭內期末報告\讀卡機\讀卡機\bin\Debug
+		Environment = 預設
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+		IORedirection = Auto
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{065B8CB7-FF70-4BE2-BD59-A9F82CE425AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{065B8CB7-FF70-4BE2-BD59-A9F82CE425AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{065B8CB7-FF70-4BE2-BD59-A9F82CE425AB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{065B8CB7-FF70-4BE2-BD59-A9F82CE425AB}.Debug|x86.Build.0 = Debug|Any CPU
+		{065B8CB7-FF70-4BE2-BD59-A9F82CE425AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{065B8CB7-FF70-4BE2-BD59-A9F82CE425AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{065B8CB7-FF70-4BE2-BD59-A9F82CE425AB}.Release|x86.ActiveCfg = Release|Any CPU
+		{065B8CB7-FF70-4BE2-BD59-A9F82CE425AB}.Release|x86.Build.0 = Release|Any CPU
+		{AC1F178E-9570-4A10-AEB4-56AD2200615B}.Debug|Any CPU.ActiveCfg = Release|x86
+		{AC1F178E-9570-4A10-AEB4-56AD2200615B}.Debug|x86.ActiveCfg = Release|x86
+		{AC1F178E-9570-4A10-AEB4-56AD2200615B}.Release|Any CPU.ActiveCfg = Release|x86
+		{AC1F178E-9570-4A10-AEB4-56AD2200615B}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35F4EE8B-E8ED-49F1-B302-7328B8EBB61D}
+	EndGlobalSection
+EndGlobal

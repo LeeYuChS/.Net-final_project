@@ -1,0 +1,6 @@
+Teacher1_password = "0942180254";
+Teacher2_password = "0942091358";
+lee_password = "1812927013";
+YA8_password = "1809576981";
+YA_password = "1812504325";
+Zheng_password = "1812975477";

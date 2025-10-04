@@ -1,0 +1,15 @@
+F:\20250711_backup\CSMU\大一下\C#\Homework\搭內期末報告\搭內期末報告 - 完成版\搭內期末報告\bin\Debug\搭內期末報告.exe.config
+F:\20250711_backup\CSMU\大一下\C#\Homework\搭內期末報告\搭內期末報告 - 完成版\搭內期末報告\bin\Debug\搭內期末報告.exe
+F:\20250711_backup\CSMU\大一下\C#\Homework\搭內期末報告\搭內期末報告 - 完成版\搭內期末報告\bin\Debug\搭內期末報告.pdb
+F:\20250711_backup\CSMU\大一下\C#\Homework\搭內期末報告\搭內期末報告 - 完成版\搭內期末報告\bin\Debug\Classlibrary.pdb
+F:\20250711_backup\CSMU\大一下\C#\Homework\搭內期末報告\搭內期末報告 - 完成版\搭內期末報告\obj\Debug\搭內期末報告.csproj.AssemblyReference.cache
+F:\20250711_backup\CSMU\大一下\C#\Homework\搭內期末報告\搭內期末報告 - 完成版\搭內期末報告\obj\Debug\搭內期末報告.exe.config
+F:\20250711_backup\CSMU\大一下\C#\Homework\搭內期末報告\搭內期末報告 - 完成版\搭內期末報告\obj\Debug\搭內期末報告.home.resources
+F:\20250711_backup\CSMU\大一下\C#\Homework\搭內期末報告\搭內期末報告 - 完成版\搭內期末報告\obj\Debug\搭內期末報告.students.resources
+F:\20250711_backup\CSMU\大一下\C#\Homework\搭內期末報告\搭內期末報告 - 完成版\搭內期末報告\obj\Debug\搭內期末報告.Properties.Resources.resources
+F:\20250711_backup\CSMU\大一下\C#\Homework\搭內期末報告\搭內期末報告 - 完成版\搭內期末報告\obj\Debug\搭內期末報告.teacher.resources
+F:\20250711_backup\CSMU\大一下\C#\Homework\搭內期末報告\搭內期末報告 - 完成版\搭內期末報告\obj\Debug\搭內期末報告.csproj.GenerateResource.cache
+F:\20250711_backup\CSMU\大一下\C#\Homework\搭內期末報告\搭內期末報告 - 完成版\搭內期末報告\obj\Debug\搭內期末報告.csproj.CoreCompileInputs.cache
+F:\20250711_backup\CSMU\大一下\C#\Homework\搭內期末報告\搭內期末報告 - 完成版\搭內期末報告\obj\Debug\搭內期末報告.csproj.Up2Date
+F:\20250711_backup\CSMU\大一下\C#\Homework\搭內期末報告\搭內期末報告 - 完成版\搭內期末報告\obj\Debug\搭內期末報告.exe
+F:\20250711_backup\CSMU\大一下\C#\Homework\搭內期末報告\搭內期末報告 - 完成版\搭內期末報告\obj\Debug\搭內期末報告.pdb
